@@ -23,7 +23,7 @@ public class main {
 			double usd_corresponding = user_tl / usd_currency;
 			System.out.println("your Turkish Lira which is in your bank worth to \n" + usd_corresponding + "USD");
 		}else {
-			System.out.println("you choosed neither of them process .");
+			System.out.println("you chose neither of them process .");
 			}
 		}
 	}
