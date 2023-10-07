@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class main {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		System.out.println("latest USD currency.");
+		System.out.println("current dollar exchange rate");
 		double usd_currency = scan.nextDouble();
 		System.out.println("choose your process \n"
 				+ "1- USD to Turkish Lira\n"
